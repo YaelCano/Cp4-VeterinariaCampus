@@ -1,0 +1,12 @@
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\APM02-67\Documents\Cp4-VeterinariaCampus\Persistence\obj\Debug\net7.0\ref\Persistence.dll
